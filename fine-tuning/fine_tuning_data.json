@@ -1,0 +1,27 @@
+[
+    {
+        "prompt": "What is the average length of stay for patients in the cardiology department?",
+        "response": "The average length of stay for patients in the cardiology department is 5.2 days."
+    },
+    {
+        "prompt": "How many patients were admitted last month?",
+        "response": "Last month, 240 patients were admitted to the hospital."
+    },
+    {
+        "prompt": "Show me the resource utilization in the ICU last week.",
+        "response": "The ICU had an 85% bed occupancy rate last week with 90% ventilator usage."
+    },
+    {
+        "prompt": "Which doctor has the highest number of surgeries in the last quarter?",
+        "response": "Dr. Emily Zhang performed the highest number of surgeries, with a total of 56 surgeries last quarter."
+    },
+    {
+        "prompt": "List the top three departments with the highest patient satisfaction scores.",
+        "response": "The top three departments with the highest patient satisfaction scores are: 1. Cardiology, 2. Pediatrics, 3. Orthopedics."
+    },
+    {
+        "prompt": "What is the readmission rate for diabetic patients?",
+        "response": "The readmission rate for diabetic patients is currently at 12.5%."
+    }
+
+]
